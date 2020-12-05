@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/NewFile.jsp=UTF-8
+encoding//WebRoot/index.jsp=UTF-8
+encoding//WebRoot/subjectAdd.html=UTF-8
+encoding//WebRoot/subjectList.jsp=UTF-8
+encoding//WebRoot/subjectShow.jsp=UTF-8
+encoding//src/action/SubjectListServlet.java=UTF-8
+encoding//src/action/SubjectServlet.java=UTF-8
+encoding//src/action/SubjectShowServlet.java=UTF-8
+encoding//src/dao/DBConn.java=UTF-8
+encoding//src/dao/SubjectDaoImpl.java=UTF-8
+encoding/<project>=UTF-8
